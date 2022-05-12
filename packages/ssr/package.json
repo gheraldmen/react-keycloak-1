@@ -5,7 +5,7 @@
   "description": "SSR bindings for Keycloak javascript adapter",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-keycloak/react-keycloak.git"
+    "url": "git+https://github.com/gheraldmen/react-keycloak-1"
   },
   "author": "Mattia Panzeri <mattia.panzeri93@gmail.com>",
   "bugs": {
